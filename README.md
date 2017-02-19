@@ -1,5 +1,6 @@
 # GraphLib
-Graph library written in C#. The library makes it possible to model a graph data structure by adding vertices and edges. There are extension methods to the graph that enable various graph algorithms such as Breadth First Search and Depth First Search. The graph data structure is generic and it can contain any type of .NET object. In addition, the library is fully tested (see unittests project).
+Graph library written in C#. The library makes it possible to model a graph data structure by adding vertices and edges. The current implementation of the graph is with an adjacency list.
+There are extension methods to the graph that enable various graph algorithms such as Breadth First Search and Depth First Search. The graph data structure is generic and it can contain any type of .NET object. In addition, the library is fully tested (see unittests project).
 
 ## Using the Library
 To use the library import GraphLibs into your project, instantiate a new graph:
@@ -12,4 +13,12 @@ and add vertices and edges:
 
 Using the graph library it is also possible to check the neighbors of a vertex in the graph. To get the neighbors of a vertex in the graph:
 
-``` IEnumerable<Person> neighbors = graph.GetAllNeighborsOf(p1); ```
+`` IEnumerable<Person> neighbors = graph.GetAllNeighborsOf(p1); ``
+
+## Graph Algorithms
+The library offers numerous graph algorithms that are added as extension methods. 
+
+To use the graph algorthims first import the extension method class: ``using GraphLibs.GraphExtensions``
+Now the graph algorithms will be added to the graph API. 
+
+
