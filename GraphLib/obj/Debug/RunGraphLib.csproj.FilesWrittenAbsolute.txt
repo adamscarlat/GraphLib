@@ -1,0 +1,11 @@
+/Users/adamscarlat/Documents/Github/GraphLib/GraphLib/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/adamscarlat/Documents/Github/GraphLib/GraphLib/bin/Debug/GraphLib.exe.config
+/Users/adamscarlat/Documents/Github/GraphLib/GraphLib/bin/Debug/GraphLib.exe.mdb
+/Users/adamscarlat/Documents/Github/GraphLib/GraphLib/bin/Debug/GraphLib.pdb
+/Users/adamscarlat/Documents/Github/GraphLib/GraphLib/bin/Debug/GraphLib.exe
+/Users/adamscarlat/Documents/Github/GraphLib/GraphLib/obj/Debug/GraphLib.exe
+/Users/adamscarlat/Documents/Github/GraphLib/GraphLib/obj/Debug/GraphLib.exe.mdb
+/Users/adamscarlat/Documents/Github/GraphLib/GraphLib/obj/Debug/GraphLib.pdb
+/Users/adamscarlat/Documents/Github/GraphLib/GraphLib/bin/Debug/GraphLibs.exe
+/Users/adamscarlat/Documents/Github/GraphLib/GraphLib/bin/Debug/GraphLibs.exe.mdb
+/Users/adamscarlat/Documents/Github/GraphLib/GraphLib/bin/Debug/GraphLibs.pdb

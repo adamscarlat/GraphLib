@@ -1,0 +1,7 @@
+c:\Users\a762198\documents\visual studio 2015\Projects\GraphLib\GraphLibUnitTests\bin\Debug\GraphLibUnitTests.dll
+c:\Users\a762198\documents\visual studio 2015\Projects\GraphLib\GraphLibUnitTests\bin\Debug\GraphLibUnitTests.pdb
+c:\Users\a762198\documents\visual studio 2015\Projects\GraphLib\GraphLibUnitTests\bin\Debug\GraphLibs.exe
+c:\Users\a762198\documents\visual studio 2015\Projects\GraphLib\GraphLibUnitTests\bin\Debug\GraphLibs.pdb
+c:\Users\a762198\documents\visual studio 2015\Projects\GraphLib\GraphLibUnitTests\obj\Debug\GraphLibUnitTests.csprojResolveAssemblyReference.cache
+c:\Users\a762198\documents\visual studio 2015\Projects\GraphLib\GraphLibUnitTests\obj\Debug\GraphLibUnitTests.dll
+c:\Users\a762198\documents\visual studio 2015\Projects\GraphLib\GraphLibUnitTests\obj\Debug\GraphLibUnitTests.pdb
