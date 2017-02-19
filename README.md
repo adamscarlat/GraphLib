@@ -3,3 +3,5 @@ Graph library written in C#. The library makes it possible to model a graph data
 
 ## Using the Library
 To use the library import GraphLibs into your project, instantiate a new graph and add vertices and edges.
+
+![Alt Text](https://github.com/adamscarlat/GraphLib/blob/master/images/newGraph.gif)
