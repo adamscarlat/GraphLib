@@ -9,3 +9,7 @@ To use the library import GraphLibs into your project, instantiate a new graph:
 and add vertices and edges:
 
 ![Alt Text](https://github.com/adamscarlat/GraphLib/blob/master/images/addVertices.gif)
+
+Using the graph library it is also possible to check the neighbors of a vertex in the graph. To get the neighbors of a vertex in the graph:
+
+``` IEnumerable<Person> neighbors = graph.GetAllNeighborsOf(p1); ```
