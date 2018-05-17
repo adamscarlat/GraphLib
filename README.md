@@ -19,7 +19,3 @@ Using the graph library it is also possible to check the neighbors of a vertex i
 The library offers numerous graph algorithms that are added as extension methods. 
 
 To use the graph algorthims first import the extension method class: ``using GraphLibs.GraphExtensions``. The graph algorithms will be added to the graph API. 
-
-### Breadth First Search
-
-### Depth First Search
